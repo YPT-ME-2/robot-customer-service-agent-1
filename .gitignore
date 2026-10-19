@@ -19,3 +19,6 @@ chat_history/
 .vscode/
 .idea/
 Thumbs.db
+
+# 本地对话状态
+state/
